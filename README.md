@@ -23,7 +23,7 @@ Please have `Node.js` installed for starting this project. For installing `Node.
 
 ## Cloning your homework assignment
 
-`TO DO`
+Use this link to pull this git project - `https://github.com/Tejas-UIC/cs484-hw1-optional-update.git`
 
 
 ## Installing required packages
@@ -37,6 +37,12 @@ Connected to the database HW1_DB.db
 ```
 
 For stopping Nodejs application, press Ctrl + c
+
+
+## Changes over the previous skeleton code 
+
+Changes to logic of checkUserExists() - This function will return false if user not found and true if user is found. (server.js and dbFunctions.js updated for this)
+Updated the testServerFunctions.test.js to remove the typo error
 
 ## Project Details
 
@@ -88,10 +94,3 @@ To check `listServiceRequest()`, go to `/dashboard` by logging in and then creat
 
 After you are confident that your code works, you can push the code to GitHub, and then submit it via Gradescope. You can find the link to our class gradescope at the bottom of this page. If you have issues with the autograder, please contact us via Piazza ASAP. **Please keep in mind that technical issues while submitting your assignment is not an acceptable excuse for improper or late submissions.**
 
-## Points 
-
-TO DO
-
-## Due Date
-
-TO DO
